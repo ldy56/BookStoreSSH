@@ -26,4 +26,8 @@ git mergeÃüÁîÓÃÓÚºÏ²¢Ö¸¶¨·ÖÖ§µ½µ±Ç°·ÖÖ§¡£ºÏ²¢ºó£¬ÔÙ²é¿´readme.txtµÄÄÚÈÝ£¬¾Í¿ÉÒÔ¿
 $ git branch -d dev
 É¾³ýºó£¬²é¿´branch£¬¾ÍÖ»Ê£ÏÂmaster·ÖÖ§ÁË£º
 $ git branch
+
 ÒòÎª´´½¨¡¢ºÏ²¢ºÍÉ¾³ý·ÖÖ§·Ç³£¿ì£¬ËùÒÔGit¹ÄÀøÄãÊ¹ÓÃ·ÖÖ§Íê³ÉÄ³¸öÈÎÎñ£¬ºÏ²¢ºóÔÙÉ¾µô·ÖÖ§£¬ÕâºÍÖ±½ÓÔÚmaster·ÖÖ§ÉÏ¹¤×÷Ð§¹ûÊÇÒ»ÑùµÄ£¬µ«¹ý³Ì¸ü°²È«¡£
+
+
+Ð¡½á
